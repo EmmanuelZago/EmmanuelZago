@@ -8,6 +8,10 @@
 📌Formado em Ciência da Computação. <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
+<div>
+  <img src="[https://user-images.githubusercontent.com/85856457/200485239-6d28d10b-7332-4866-9c95-56cd6890b369.PNG](https://photos.fife.usercontent.google.com/pw/AP1GczNsExWrcgxhjUbZLX5l8TBxvlszIxvJCz3GgTSHisI6VcupW7dD8h0=w591-h888-s-no-gm?authuser=0)" width="150px" align="right" borderRadius="100px" />
+</div>
+
 #####  Contatos:
 
 <div > 
